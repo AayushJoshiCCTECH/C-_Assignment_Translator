@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aayush_Joshi_Workspace\\Aayush_Joshi\\C#\\STL_TO_OBJ_CONVERTER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82513017-58F5-496F-AB49-18631E4A037B}|STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER.csproj|d:\\aayush_joshi_workspace\\aayush_joshi\\c#\\stl_to_obj_converter\\stl_to_obj_converter\\output\\debug\\net8.0\\output\\outputfile.obj||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{82513017-58F5-496F-AB49-18631E4A037B}|STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER.csproj|solutionrelative:stl_to_obj_converter\\output\\debug\\net8.0\\output\\outputfile.obj||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82513017-58F5-496F-AB49-18631E4A037B}|STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER.csproj|d:\\aayush_joshi_workspace\\aayush_joshi\\c#\\stl_to_obj_converter\\stl_to_obj_converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82513017-58F5-496F-AB49-18631E4A037B}|STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER.csproj|solutionrelative:stl_to_obj_converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82513017-58F5-496F-AB49-18631E4A037B}|STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER.csproj|d:\\aayush_joshi_workspace\\aayush_joshi\\c#\\stl_to_obj_converter\\stl_to_obj_converter\\functions\\stlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82513017-58F5-496F-AB49-18631E4A037B}|STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER.csproj|solutionrelative:stl_to_obj_converter\\functions\\stlreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82513017-58F5-496F-AB49-18631E4A037B}|STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER.csproj|d:\\aayush_joshi_workspace\\aayush_joshi\\c#\\stl_to_obj_converter\\stl_to_obj_converter\\functions\\obj_writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82513017-58F5-496F-AB49-18631E4A037B}|STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER.csproj|solutionrelative:stl_to_obj_converter\\functions\\obj_writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutputFile.obj",
+              "DocumentMoniker": "D:\\Aayush_Joshi_Workspace\\Aayush_Joshi\\C#\\STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER\\Output\\Debug\\net8.0\\output\\OutputFile.obj",
+              "RelativeDocumentMoniker": "STL_TO_OBJ_CONVERTER\\Output\\Debug\\net8.0\\output\\OutputFile.obj",
+              "ToolTip": "D:\\Aayush_Joshi_Workspace\\Aayush_Joshi\\C#\\STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER\\Output\\Debug\\net8.0\\output\\OutputFile.obj",
+              "RelativeToolTip": "STL_TO_OBJ_CONVERTER\\Output\\Debug\\net8.0\\output\\OutputFile.obj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-06T14:22:14.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aayush_Joshi_Workspace\\Aayush_Joshi\\C#\\STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER\\Program.cs",
+              "RelativeDocumentMoniker": "STL_TO_OBJ_CONVERTER\\Program.cs",
+              "ToolTip": "D:\\Aayush_Joshi_Workspace\\Aayush_Joshi\\C#\\STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER\\Program.cs",
+              "RelativeToolTip": "STL_TO_OBJ_CONVERTER\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:34:27.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StlReader.cs",
+              "DocumentMoniker": "D:\\Aayush_Joshi_Workspace\\Aayush_Joshi\\C#\\STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER\\Functions\\StlReader.cs",
+              "RelativeDocumentMoniker": "STL_TO_OBJ_CONVERTER\\Functions\\StlReader.cs",
+              "ToolTip": "D:\\Aayush_Joshi_Workspace\\Aayush_Joshi\\C#\\STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER\\Functions\\StlReader.cs",
+              "RelativeToolTip": "STL_TO_OBJ_CONVERTER\\Functions\\StlReader.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwBoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:24:18.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Obj_Writer.cs",
+              "DocumentMoniker": "D:\\Aayush_Joshi_Workspace\\Aayush_Joshi\\C#\\STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER\\Functions\\Obj_Writer.cs",
+              "RelativeDocumentMoniker": "STL_TO_OBJ_CONVERTER\\Functions\\Obj_Writer.cs",
+              "ToolTip": "D:\\Aayush_Joshi_Workspace\\Aayush_Joshi\\C#\\STL_TO_OBJ_CONVERTER\\STL_TO_OBJ_CONVERTER\\Functions\\Obj_Writer.cs",
+              "RelativeToolTip": "STL_TO_OBJ_CONVERTER\\Functions\\Obj_Writer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:22:54.893Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

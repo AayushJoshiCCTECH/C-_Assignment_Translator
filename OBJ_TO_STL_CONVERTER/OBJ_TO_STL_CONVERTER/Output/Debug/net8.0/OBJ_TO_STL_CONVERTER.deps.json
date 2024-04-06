@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OBJ_TO_STL_CONVERTER/1.0.0": {
+        "runtime": {
+          "OBJ_TO_STL_CONVERTER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OBJ_TO_STL_CONVERTER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

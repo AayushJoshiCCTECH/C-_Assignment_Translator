@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageOutputPath>$(OutputPath)</PackageOutputPath>
+    <BaseOutputPath>Output</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Output\Debug\net8.0\cube.obj" />
+  </ItemGroup>
+
+</Project>

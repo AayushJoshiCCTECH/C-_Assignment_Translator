@@ -1,0 +1,14 @@
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\Output\Debug\net8.0\STL_TO_OBJ_CONVERTER.exe
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\Output\Debug\net8.0\STL_TO_OBJ_CONVERTER.deps.json
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\Output\Debug\net8.0\STL_TO_OBJ_CONVERTER.runtimeconfig.json
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\Output\Debug\net8.0\STL_TO_OBJ_CONVERTER.dll
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\Output\Debug\net8.0\STL_TO_OBJ_CONVERTER.pdb
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\obj\Debug\net8.0\STL_TO_OBJ_CONVERTER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\obj\Debug\net8.0\STL_TO_OBJ_CONVERTER.AssemblyInfoInputs.cache
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\obj\Debug\net8.0\STL_TO_OBJ_CONVERTER.AssemblyInfo.cs
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\obj\Debug\net8.0\STL_TO_OBJ_CONVERTER.csproj.CoreCompileInputs.cache
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\obj\Debug\net8.0\STL_TO_OBJ_CONVERTER.dll
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\obj\Debug\net8.0\refint\STL_TO_OBJ_CONVERTER.dll
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\obj\Debug\net8.0\STL_TO_OBJ_CONVERTER.pdb
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\obj\Debug\net8.0\STL_TO_OBJ_CONVERTER.genruntimeconfig.cache
+D:\Aayush_Joshi_Workspace\Aayush_Joshi\C#\STL_TO_OBJ_CONVERTER\STL_TO_OBJ_CONVERTER\obj\Debug\net8.0\ref\STL_TO_OBJ_CONVERTER.dll
